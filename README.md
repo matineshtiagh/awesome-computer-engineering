@@ -57,6 +57,7 @@
 - [CP-Algorithms](https://cp-algorithms.com/)
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 - [A2OJ ladders (archive)](https://a2oj.herokuapp.com/)
+- [Roud Map](https://youkn0wwho.academy/topic-list) - یک نقشه راه ساختاریافته برای یادگیری برنامه‌نویسی رقابتی از سطح مبتدی تا پیشرفته، بر پایه تجربه شخصی نویسنده، همراه با دسته‌بندی موضوعات و منابع تمرینی کاربردی
 
 ---
 
